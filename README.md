@@ -1,3 +1,7 @@
+# Spring Docker
+
+Projeto exemplo de criação de uma imagem para um projeto spring boot web no Docker.
+
 Para gerar o jar que será copiado:
 
 ```bash
