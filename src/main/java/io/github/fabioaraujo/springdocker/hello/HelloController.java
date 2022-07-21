@@ -5,10 +5,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class HelloController {
+  int count = 0;
 
   @RequestMapping("/")
   public String home() {
-    return "Hello Docker World";
+    return "Hello Docker World " + count++;
   }
 
 }
