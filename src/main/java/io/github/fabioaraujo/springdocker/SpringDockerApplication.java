@@ -1,4 +1,4 @@
-package fabioaraujo.github.io.springdocker;
+package io.github.fabioaraujo.springdocker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

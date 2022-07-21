@@ -1,4 +1,4 @@
-package fabioaraujo.github.io.springdocker;
+package io.github.fabioaraujo.springdocker;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
